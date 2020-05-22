@@ -1,0 +1,24 @@
+{
+  "name": "representational-state-transfer",
+  "version": "1.0.0",
+  "description": "A REST API model for simple CRUD operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajitesh13/REpresentational-State-Transfer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajitesh13/REpresentational-State-Transfer/issues"
+  },
+  "homepage": "https://github.com/Ajitesh13/REpresentational-State-Transfer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15",
+    "nodemon": "^2.0.4"
+  }
+}
